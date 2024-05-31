@@ -1,0 +1,52 @@
+[
+    {
+        "nom": "Mojito",
+        "prix": 8.5,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Mojito_1ou2cocktails_cre%CC%81dit.KP_H.jpg"
+    },
+    {
+        "nom": "Manhattan",
+        "prix": 9.0,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Manhattan_KP_06262019_2838-copie.jpg"
+    },
+    {
+        "nom": "Margarita",
+        "prix": 10.0,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Margarita_1ou2cocktails_cre%CC%81dit.KP_H.jpg"
+    },
+    {
+        "nom": "Whisky Sour",
+        "prix": 11.0,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_classique_Whisky_Sour_1ou2Cocktails_KP_06262019_2939-copie.jpg"
+    },
+    {
+        "nom": "Daiquiri",
+        "prix": 8.0,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Daiquiri_1ou2cocktails_cre%CC%81dit.KP_H.jpg"
+    },
+    {
+        "nom": "Bloody Mary",
+        "prix": 9.5,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Bloody_Mary_1ou2cocktails_cre%CC%81dit.KP_.jpg"
+    },
+    {
+        "nom": "Pisco Sour",
+        "prix": 8.5,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_classique_Pisco_Sour_1ou2cocktails_KP_06262019_2971-copie.jpg"
+    },
+    {
+        "nom": "Mai Tai",
+        "prix": 10.5,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_classique_Mai_Tai_1ou2cocktails_KP_06262019_2546-copie.jpg"
+    },
+    {
+        "nom": "Old Fashioned",
+        "prix": 12.0,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2015/03/Cocktail_Old_Fashioned_classique_1ou2Cocktails_kp_1OU2COCKTAILS_012120216571_lr.jpg"
+    },
+    {
+        "nom": "Negroni",
+        "prix": 11.5,
+        "image": "https://1ou2cocktails.com/wp-content/uploads/2021/01/Cocktail_Mojito_1ou2cocktails_cre%CC%81dit.KP_H-1.jpg"
+    }
+]

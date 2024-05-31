@@ -10,11 +10,19 @@ import { CommonModule } from '@angular/common';
   styleUrl: './cocktail.component.css'
 })
 export class CocktailComponent {
-  private cocktailService = inject(CocktailService);
+ 
 constructor(){}
 
-cocktailList:Cocktail[]=this.cocktailService.getCocktails()
+cocktails: Cocktail[] = [];
+
+private cocktailService = inject(CocktailService);
+
+ngOnInit(): void {
+  this.cocktailService.getCocktails().subscribe(cocktailsFromJsonFile => {
+    this.cocktails = cocktailsFromJsonFile;
+    console.log(this.cocktails)
+  });
 
 
 
-}
+}}
