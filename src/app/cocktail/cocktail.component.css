@@ -1,0 +1,37 @@
+.cocktail-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    width: 70%;
+    margin:auto;
+  }
+  
+  .cocktail-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .cocktail-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .cocktail-info {
+    padding: 10px;
+  }
+  
+  .cocktail-info h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
+  .cocktail-info p {
+    margin: 0;
+    color: #555;
+  }
+  

@@ -1,0 +1,12 @@
+<h1 style="margin:0 auto;">Tout les cocktails</h1>
+
+
+<div class="cocktail-grid">
+    <div class="cocktail-card" *ngFor="let cocktail of cocktailList">
+      <img [src]="cocktail.image" alt="{{cocktail.nom}}" class="cocktail-image">
+      <div class="cocktail-info">
+        <h3>{{cocktail.nom}}</h3>
+        <p>Prix: {{cocktail.prix}}€</p>
+      </div>
+    </div>
+  </div>
